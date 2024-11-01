@@ -3,3 +3,5 @@
 # print ("\nVogais com suas posições: ")
 # for indice, vogal in enumerate(vogais,start=1):
 #  print(f"vogal{indice}: {vogal}")
+
+palestrantes = (1: "gabriel" "emprededorismo", 2:
