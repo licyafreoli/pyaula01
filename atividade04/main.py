@@ -1,7 +1,7 @@
-# vogais = ['a','e','i','o','u']
+palestrantes = (( "gabriel", "emprededorismo", "instituiçao 1"),
+("larissa", "astronomia", "instituoiçao 2"),
+("harry", "liderança", "instituiçao 3"))
 
-# print ("\nVogais com suas posições: ")
-# for indice, vogal in enumerate(vogais,start=1):
-#  print(f"vogal{indice}: {vogal}")
+terceiro = palestrantes[2]
+print(f"Nome: {terceiro[0]}\nTema: {terceiro[1]}\nInstituição: {terceiro[2]}")
 
-palestrantes = (1: "gabriel" "emprededorismo", 2:
