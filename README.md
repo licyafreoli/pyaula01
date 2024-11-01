@@ -1,4 +1,4 @@
-# 📚 Descrição do Projeto de Atividades Práticas
+#  🚀 Descrição do Projeto de Atividades Práticas
 
 Este repositório contém um conjunto de atividades práticas em Python, focadas no uso de listas e tuplas. Cada atividade está organizada em pastas separadas, facilitando o acesso e a prática.
 
